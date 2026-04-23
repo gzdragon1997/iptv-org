@@ -25,3 +25,5 @@ http://maxotts.maxdigitaltv.com/x-media/C180/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C168/master.m3u8
 #EXTINF:-1 tvg-id="NationalGoldTV.np@SD",National Gold TV
 http://maxotts.maxdigitaltv.com/x-media/C170/master.m3u8
+#EXTINF:-1 tvg-id="BagmatiTV.np@SD",Bagmati TV
+http://maxotts.maxdigitaltv.com/x-media/C167/master.m3u8

@@ -391,8 +391,6 @@ https://video09.logicahost.com.br/sbtsinop/sbtsinop/playlist.m3u8
 https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8
 #EXTINF:-1 tvg-id="SBTNovaMutum.br@SD",SBT Nova Mutum
 https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8
-#EXTINF:-1 tvg-id="NickOnlineSpongebob.br@HD",NickOnline Spongebob (720p) [Not 24/7]
-https://x1co.com.br:2083/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PremiereFC8.br@SD",Premiere FC 8
 https://stm.sinalmycn.com/20021/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
 #EXTINF:-1 tvg-id="PremiereFC7.br@SD",Premiere FC 7
@@ -421,3 +419,9 @@ https://stm.sinalmycn.com/19025/video.m3u8
 https://stm.sinalmycn.com/19024/video.m3u8
 #EXTINF:-1 tvg-id="NickOnline.br@SD",NickOnline SD (320p)
 https://sd.x1co.com.br
+#EXTINF:-1 tvg-id="NickOnlineSpongebob.br@HD",NickOnline Spongebob (720p) [Not 24/7]
+https://lowa8026-cmyk.github.io/Brazil/NickOnlineSpongebob.m3u8
+#EXTINF:-1 tvg-id="NickelodeonWeb.br@SD",Nickelodeon Web (576p)
+https://vs20.live.opencaster.com/nickelodeonbrasil_68f1743d/index.m3u8
+#EXTINF:-1 tvg-id="NickOnlineSpongebob.br@HD",NickOnline Spongebob (720p) [Not 24/7]
+https://pc.x1co.com.br/hls/stream.m3u8
