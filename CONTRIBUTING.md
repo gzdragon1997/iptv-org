@@ -121,7 +121,7 @@ STREAM_URL
 | `STREAM_TITLE` | Stream title consisting of channel name and feed name. May contain any characters except: `,`, `[`, `]`.                                                                   | Required | -                                            |
 | `QUALITY`      | Maximum stream quality.                                                                                                                                                    | Optional | `2160p`, `1080p`, `720p`, `480p`, `360p` etc |
 | `LABEL`        | Specified in cases where the broadcast for some reason may not be available to some users.                                                                                 | Optional | `Geo-blocked` or `Not 24/7`                  |
-| `STREAM_URL`   | Stream URL.                                                                                                                                                                | Required | -                                            |
+| `STREAM_URL`   | Stream URL. The following protocols are supported: `HTTPS`, `HTTP`, `MMS`, `MMSH`, `RTSP`, `RTMP`, `SRT`, `RTP`, `UDP`.                                                    | Required | -                                            |
 
 Example:
 
