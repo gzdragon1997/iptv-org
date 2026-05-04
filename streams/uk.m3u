@@ -287,3 +287,7 @@ https://mini.allinonereborn.fun/tata.php?id=11779
 https://cdn10jtedge.indihometv.com/atm/DASH/cbeebies/manifest.mpd
 #EXTINF:-1 tvg-id="NickelodeonGlobal.uk@SD",Nickelodeon Global (576p)
 http://46.149.191.217:9011/play/a018
+#EXTINF:-1 tvg-id="TraceUK.uk@HD",Trace UK (720p)
+https://channels.trace.plus/Traceprod/UK_FAST/abr.m3u8
+#EXTINF:-1 tvg-id="BritAsiaTV.uk@HD",Brit Asia TV (1080p)
+https://hls.autopo.st/hls/britasiatv/index.m3u8
