@@ -62,8 +62,8 @@ http://74.91.26.218:82/live/cctv8hd.m3u8
 http://198.204.240.250:82/live/cctv8k.m3u8
 #EXTINF:-1 tvg-id="CCTV9.cn@SD",CCTV-9 (576i)
 https://xykt-fix.github.io/Y77.m3u8
-#EXTINF:-1 tvg-id="CCTV5Plus.cn@SD",CCTV-5+ (576i)
-http://69.30.246.194/live/cctv5p.m3u8
+#EXTINF:-1 tvg-id="CCTV5Plus.cn@SD",CCTV-5+ (720p)
+http://192.151.150.154/live/cctv5p.m3u8
 #EXTINF:-1 tvg-id="CETV1.cn@SD",CETV1 (576p)
 http://117.161.133.51:81/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV
 #EXTINF:-1 tvg-id="CETV2.cn@SD",CETV2 (576p)
