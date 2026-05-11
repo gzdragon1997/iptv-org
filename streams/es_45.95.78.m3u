@@ -9,7 +9,7 @@ http://45.95.78.232:8001/udp/239.106.82.1:5000
 http://45.95.78.232:8001/udp/239.106.90.5:5000
 #EXTINF:-1 tvg-id="BabyTV.uk@Spain",Baby TV Spain (1080p)
 http://45.95.78.232:8001/udp/239.106.86.1:5000
-#EXTINF:-1 tvg-id="BeMad.es@SD",BeMad (1080p)
+#EXTINF:-1 tvg-id="BeMad.es@SD",Be Mad (1080p)
 http://45.95.78.232:8001/udp/239.106.85.1:5000
 #EXTINF:-1 tvg-id="CanalExtremadura.es@SD",Canal Extremadura (1080p)
 http://45.95.78.232:8001/udp/239.106.90.6:5000
